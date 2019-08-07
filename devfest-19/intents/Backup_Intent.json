@@ -1,0 +1,92 @@
+{
+  "id": "f6a19396-af01-4f88-a12a-ef480a26ac9f",
+  "name": "Backup_Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a07b5f96-c350-4a13-a1a2-bbbf53642106",
+          "required": false,
+          "dataType": "@sessions",
+          "name": "sessions",
+          "value": "$sessions",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "884fa8ec-1f4b-4a69-8c13-fbff3d760aee",
+          "required": false,
+          "dataType": "@sys.person",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c9e7a286-8d8c-431b-b783-9362e80abe2d",
+          "required": false,
+          "dataType": "@tracks",
+          "name": "tracks",
+          "value": "$tracks.original",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0cb868af-be32-433a-bc78-e0e08f207efd",
+          "required": false,
+          "dataType": "@specific_team",
+          "name": "specific_team",
+          "value": "$specific_team",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "93aba757-6069-4ff4-9709-1062cb22be08",
+          "required": false,
+          "dataType": "@organisers",
+          "name": "organisers",
+          "value": "$organisers",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

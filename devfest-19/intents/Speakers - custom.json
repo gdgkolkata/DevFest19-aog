@@ -1,0 +1,49 @@
+{
+  "id": "208703ad-42d6-4bb1-b02a-2b0a8760df10",
+  "parentId": "64032819-9c4a-4a88-8e6f-3c42a0896cc3",
+  "rootParentId": "64032819-9c4a-4a88-8e6f-3c42a0896cc3",
+  "name": "Speakers - custom",
+  "auto": true,
+  "contexts": [
+    "Speakers-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Speakers.Speakers-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "11ac010a-6edb-425d-8f55-751fdc6dc734",
+          "required": false,
+          "dataType": "@speakers",
+          "name": "speakers",
+          "value": "$speakers",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

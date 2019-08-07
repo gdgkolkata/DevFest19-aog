@@ -1,0 +1,9 @@
+{
+  "id": "410cce56-d972-4209-8600-7b916772dc19",
+  "name": "session_details",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

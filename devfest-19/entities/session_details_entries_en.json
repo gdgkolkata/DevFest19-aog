@@ -1,0 +1,18 @@
+[
+  {
+    "value": "session1",
+    "synonyms": [
+      "session 1",
+      "session one",
+      "session1"
+    ]
+  },
+  {
+    "value": "session2",
+    "synonyms": [
+      "session 2",
+      "session two",
+      "session2"
+    ]
+  }
+]

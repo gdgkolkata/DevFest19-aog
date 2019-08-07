@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Cloud",
+    "synonyms": [
+      "CLOUD",
+      "GCP",
+      "cloud"
+    ]
+  },
+  {
+    "value": "ML",
+    "synonyms": [
+      "Artificial Intelligence",
+      "DS",
+      "Data Science",
+      "Machine Learning",
+      "ds",
+      "ml"
+    ]
+  },
+  {
+    "value": "Mobile",
+    "synonyms": [
+      "Android",
+      "Flutter",
+      "Kotlin",
+      "Mobile Application",
+      "mobile"
+    ]
+  },
+  {
+    "value": "Web",
+    "synonyms": [
+      "Web",
+      "Web Development",
+      "web"
+    ]
+  }
+]

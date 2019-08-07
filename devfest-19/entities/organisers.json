@@ -1,0 +1,9 @@
+{
+  "id": "9c1b164c-6c56-439c-b420-cac4fe287340",
+  "name": "organisers",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

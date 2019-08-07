@@ -1,0 +1,52 @@
+{
+  "id": "50addbd8-1f4a-4a6d-a3a1-030db57aaf6d",
+  "name": "DevFest_Home",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "27371f8c-f51e-4196-8acf-bf3ea1d64358",
+          "required": false,
+          "dataType": "@devfest",
+          "name": "devfest",
+          "value": "$devfest",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ee791b71-14c2-497d-b9ec-fc7163ab7f83",
+          "required": false,
+          "dataType": "@events",
+          "name": "events",
+          "value": "$events",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

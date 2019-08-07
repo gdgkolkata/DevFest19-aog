@@ -1,0 +1,40 @@
+{
+  "id": "c10063c0-a2eb-4d96-b9c3-957180e1eef7",
+  "name": "notice board",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ed667a03-6c2c-46fe-afe6-fda4cf6b693c",
+          "required": false,
+          "dataType": "@Updates",
+          "name": "Updates",
+          "value": "$Updates",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Is there anything else you would like me to do?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

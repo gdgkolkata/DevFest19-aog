@@ -1,0 +1,50 @@
+[
+  {
+    "id": "47deac78-a8a1-49ab-92ed-56d72430137c",
+    "data": [
+      {
+        "text": "the working class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11618cb7-8aa8-4c95-9027-fb464e391978",
+    "data": [
+      {
+        "text": "the team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be058b75-92b9-4668-bb0c-532e7233051f",
+    "data": [
+      {
+        "text": "who are in the organizing team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42e70009-5b77-43bc-b4a1-b3a9af4cf66e",
+    "data": [
+      {
+        "text": "who are the volunteers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

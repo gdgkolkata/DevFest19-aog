@@ -1,0 +1,30 @@
+[
+  {
+    "id": "508f5dbf-da2c-4b01-beda-d8b034a4c21f",
+    "data": [
+      {
+        "text": "Organizers",
+        "alias": "organisers",
+        "meta": "@organisers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65ecc212-b96b-4ea9-909e-7b560d2b0fd1",
+    "data": [
+      {
+        "text": "Organisers",
+        "alias": "organisers",
+        "meta": "@organisers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

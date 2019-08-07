@@ -1,0 +1,17 @@
+[
+  {
+    "value": "pass",
+    "synonyms": [
+      "pass",
+      "passes",
+      "tickets"
+    ]
+  },
+  {
+    "value": "register",
+    "synonyms": [
+      "register",
+      "registration"
+    ]
+  }
+]

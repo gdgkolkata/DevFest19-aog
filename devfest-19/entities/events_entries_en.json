@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Call For Speakers",
+    "synonyms": [
+      "Call For Speakers"
+    ]
+  },
+  {
+    "value": "Call For Speakers Close",
+    "synonyms": [
+      "Call For Speakers Close"
+    ]
+  },
+  {
+    "value": "Call For Speakers Open",
+    "synonyms": [
+      "Call for Speakers open"
+    ]
+  },
+  {
+    "value": "DevFest",
+    "synonyms": [
+      "event"
+    ]
+  },
+  {
+    "value": "DevFest 2019",
+    "synonyms": [
+      "DevFest 2019"
+    ]
+  },
+  {
+    "value": "DevFest\u002719",
+    "synonyms": [
+      "DevFest\u002719"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "10431f50-3878-407c-b938-7b6fcbe4687a",
+  "name": "Venue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad7cfa8b-9e54-4c37-8c8f-b5d5a4085df2",
+          "required": false,
+          "dataType": "@venue",
+          "name": "venue",
+          "value": "$venue",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Venue for DevFest Kolkata 2019 is Novotel Kolkata."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

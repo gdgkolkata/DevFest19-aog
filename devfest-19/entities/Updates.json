@@ -1,0 +1,9 @@
+{
+  "id": "e691e423-3473-4ac4-946c-2dd89bfa811a",
+  "name": "Updates",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

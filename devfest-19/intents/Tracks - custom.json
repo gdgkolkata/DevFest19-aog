@@ -1,0 +1,55 @@
+{
+  "id": "c25d9d91-0b1b-4562-8992-796d938e760d",
+  "parentId": "bed6ff1f-f251-41cf-be44-cf73a81cde9c",
+  "rootParentId": "bed6ff1f-f251-41cf-be44-cf73a81cde9c",
+  "name": "Tracks - custom",
+  "auto": true,
+  "contexts": [
+    "Tracks-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tracks.Tracks-custom",
+      "affectedContexts": [
+        {
+          "name": "Tracks-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "41f6aa95-84c8-4b4a-8eb7-568c19de3717",
+          "required": false,
+          "dataType": "@tracks",
+          "name": "specific_track",
+          "value": "$track.original",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

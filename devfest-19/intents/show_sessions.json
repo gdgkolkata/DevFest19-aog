@@ -1,0 +1,74 @@
+{
+  "id": "98b67766-d009-4cf2-90ba-9b9fe00723c9",
+  "name": "show_sessions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "show_sessions-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a71c09a9-73d7-44f5-a4f3-0af1c8445dba",
+          "required": false,
+          "dataType": "@tracks",
+          "name": "tracks",
+          "value": "$tracks",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bb080fe1-1b18-401b-8bdb-d4520232e296",
+          "required": false,
+          "dataType": "@speakers",
+          "name": "speaker",
+          "value": "$speaker",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "acf16cd4-f089-4a6a-b7db-951057c320f9",
+          "required": false,
+          "dataType": "@sessions",
+          "name": "sessions",
+          "value": "$sessions",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "aded4fb9-a3df-4c55-ab3d-79a03be76876",
+  "name": "EXIT_DOOR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Chalo ! DevFest mein aa jana ! Better half ko bhi lana."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

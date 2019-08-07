@@ -1,0 +1,56 @@
+[
+  {
+    "value": "Action",
+    "synonyms": [
+      "Action",
+      "Actions",
+      "action"
+    ]
+  },
+  {
+    "value": "App",
+    "synonyms": [
+      "App",
+      "Application",
+      "Mobile App"
+    ]
+  },
+  {
+    "value": "Design",
+    "synonyms": [
+      "Design",
+      "designers"
+    ]
+  },
+  {
+    "value": "On Ground",
+    "synonyms": [
+      "On Ground",
+      "on site"
+    ]
+  },
+  {
+    "value": "Outreach",
+    "synonyms": [
+      "Networking",
+      "Outreach"
+    ]
+  },
+  {
+    "value": "Web",
+    "synonyms": [
+      "Web",
+      "Website",
+      "site"
+    ]
+  },
+  {
+    "value": "team",
+    "synonyms": [
+      "Group",
+      "Team",
+      "group",
+      "team"
+    ]
+  }
+]

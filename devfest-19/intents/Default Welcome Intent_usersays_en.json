@@ -1,0 +1,58 @@
+[
+  {
+    "id": "62073dec-e9f2-4986-9f50-aa1d110b45a6",
+    "data": [
+      {
+        "text": "Home",
+        "alias": "HOME_PAGE",
+        "meta": "@HOME_PAGE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a967731-51d2-4b91-a451-a57e9972641b",
+    "data": [
+      {
+        "text": "Google Developers ",
+        "userDefined": false
+      },
+      {
+        "text": "Group",
+        "alias": "specific_team",
+        "meta": "@specific_team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77bf1a4a-e054-47b3-ae67-310e6870d23f",
+    "data": [
+      {
+        "text": "GDG Kolkata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0eba708-a9e7-4954-8c5a-c7abe425a575",
+    "data": [
+      {
+        "text": "GDG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

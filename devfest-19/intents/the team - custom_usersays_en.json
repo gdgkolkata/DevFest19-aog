@@ -1,0 +1,44 @@
+[
+  {
+    "id": "bc690841-5ba4-4b6f-a729-d93b31afe8de",
+    "data": [
+      {
+        "text": "on @{ateam} team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be70098e-064f-4d6a-8392-1e7572a1eef3",
+    "data": [
+      {
+        "text": "@{ateam} ",
+        "userDefined": false
+      },
+      {
+        "text": "guys",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d01dcd6e-a6dc-414b-b636-e328d9ba2cb9",
+    "data": [
+      {
+        "text": "@{ateam} personnel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

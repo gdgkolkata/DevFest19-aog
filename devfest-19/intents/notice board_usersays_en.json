@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dcde6038-94d5-4ab0-b607-b32a7ee2967d",
+    "data": [
+      {
+        "text": "updates",
+        "alias": "Updates",
+        "meta": "@Updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "096c4b95-5287-48c2-955d-6167f0ffbbd9",
+    "data": [
+      {
+        "text": "announcements",
+        "alias": "Updates",
+        "meta": "@Updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "629becf3-7aff-483e-844f-76c0ae8978c2",
+    "data": [
+      {
+        "text": "notice board",
+        "alias": "Updates",
+        "meta": "@Updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

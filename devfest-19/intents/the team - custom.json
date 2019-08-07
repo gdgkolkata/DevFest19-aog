@@ -1,0 +1,61 @@
+{
+  "id": "0d6f93da-643b-47bb-9abe-8d2e922e7a2f",
+  "parentId": "7f46d558-6642-4a52-b800-2e96c6681def",
+  "rootParentId": "7f46d558-6642-4a52-b800-2e96c6681def",
+  "name": "the team - custom",
+  "auto": true,
+  "contexts": [
+    "theteam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "theteam.theteam-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4f425b8d-f13b-412a-8411-eed75ceaea1a",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6109be87-73e4-422f-90fe-f55c28b4c811",
+          "required": false,
+          "dataType": "@specific_team",
+          "name": "aTeam",
+          "value": "$specific_team.original",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

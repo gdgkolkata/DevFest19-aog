@@ -1,0 +1,9 @@
+{
+  "id": "fb34467e-860a-4ef2-a5d3-cc2c5016bf04",
+  "name": "tracks",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

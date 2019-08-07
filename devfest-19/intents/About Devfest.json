@@ -1,0 +1,40 @@
+{
+  "id": "ea7894fb-4e11-47c0-9e5f-3ff8c0df35a3",
+  "name": "About Devfest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "749ba7f6-103a-4edb-9d96-0f11102e06bd",
+          "required": false,
+          "dataType": "@devfest",
+          "name": "devfest",
+          "value": "$devfest",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

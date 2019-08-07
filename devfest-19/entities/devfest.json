@@ -1,0 +1,9 @@
+{
+  "id": "ff00b251-0ee8-42d2-ac50-da535082a685",
+  "name": "devfest",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

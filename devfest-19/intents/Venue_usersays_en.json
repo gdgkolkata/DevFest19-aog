@@ -1,0 +1,82 @@
+[
+  {
+    "id": "aba03ad0-3422-46be-a69c-abfba386efcf",
+    "data": [
+      {
+        "text": "location",
+        "alias": "venue",
+        "meta": "@venue",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "DevFest",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1109eef-ee9f-4567-af6f-efdc4b064f59",
+    "data": [
+      {
+        "text": "where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " taking ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "venue",
+        "meta": "@venue",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "792a5364-aba6-4f50-8eaa-fa7ff233f0d3",
+    "data": [
+      {
+        "text": "How to reach ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e4766b2-83c0-45cd-9be9-4b3b1b0d6c5c",
+    "data": [
+      {
+        "text": "Venue",
+        "alias": "venue",
+        "meta": "@venue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

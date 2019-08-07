@@ -1,0 +1,9 @@
+{
+  "id": "ccb521fe-58e5-4be1-b4d4-034becadfc64",
+  "name": "register",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "129055e8-e5a6-4d7d-a365-e54f0b15a871",
+    "data": [
+      {
+        "text": "Cloudfest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "66b81e43-59d4-45f9-9a71-6d5fb0605e9b",
+    "data": [
+      {
+        "text": "DSC Cloudfest ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d6ad5ca-aef6-48cc-b165-b5a81a99179d",
+    "data": [
+      {
+        "text": "CloudFest\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

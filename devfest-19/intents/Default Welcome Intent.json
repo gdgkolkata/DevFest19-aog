@@ -1,0 +1,62 @@
+{
+  "id": "a5807e78-99c3-479b-9b47-630488865dc5",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01fc2917-9abe-45eb-85e2-5fbce5d6bc69",
+          "required": false,
+          "dataType": "@specific_team",
+          "name": "specific_team",
+          "value": "$specific_team",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "412138f6-420e-4cc0-b1cc-cf871cb4d456",
+          "required": false,
+          "dataType": "@HOME_PAGE",
+          "name": "HOME_PAGE",
+          "value": "$HOME_PAGE",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hello, and Welcome to DevFest Kolkata! I\u0027m Apu. How can I help you?",
+            "Greetings from Devfest Kolkata! I\u0027m Apu. How can I assist you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

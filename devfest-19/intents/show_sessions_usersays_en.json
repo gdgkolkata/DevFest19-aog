@@ -1,0 +1,68 @@
+[
+  {
+    "id": "afb5ccee-cbd1-4182-ad56-74ccdbc26804",
+    "data": [
+      {
+        "text": "sessions",
+        "alias": "sessions",
+        "meta": "@sessions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2f5e2d7-7ffb-4a2a-a7e8-bbc13fc17d5d",
+    "data": [
+      {
+        "text": "View @{sessions} in @{tracks}",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b200061a-6a6a-45cd-a747-83fa3d54e4c8",
+    "data": [
+      {
+        "text": "which @{tracks} does @{speaker} take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59983887-1bca-4e15-a433-5a266e525a08",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "contents",
+        "alias": "sessions",
+        "meta": "@sessions",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "cloud",
+        "alias": "tracks",
+        "meta": "@tracks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

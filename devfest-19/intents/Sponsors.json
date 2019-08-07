@@ -1,0 +1,40 @@
+{
+  "id": "25cf7bd7-2a00-4636-9f8e-91d96f4d83e5",
+  "name": "Sponsors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "876430f5-c0df-4482-b674-49a975330cad",
+          "required": false,
+          "dataType": "@sponsors",
+          "name": "sponsors",
+          "value": "$sponsors",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "More Information on this soon."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
