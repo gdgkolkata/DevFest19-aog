@@ -1,0 +1,778 @@
+[
+{
+groupId: null,
+groupName: "All",
+sessions: [
+{
+questionAnswers: [ ],
+id: "134243",
+title: "A tale of Multiplatform",
+description: "In the current wave of cross platform solutions, Kotlin’s multiplatform is shaping up to be a unique proponent of code reuse. Unlike write once run everywhere, Multiplatform offers a unique space of reusability and formalization of code across platforms and also removes dependency on custom VMs or runtime. Through this talk we'll go through building an app for Android and iOS and use Kotlin multiplatform for code sharing and building an abstraction layer across platforms. Contents: - Introduction to Kotlin Multiplatform. - Basic Architecture for a Multiplatform app. - Multiplatform Libraries and few gotchas. - Pseudo code illustration. - Sample code/demo application.",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "0e8af5b9-c572-4e25-b1bc-c20ee829a68a",
+name: "Bedanta Bikash Borah",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22213,
+name: "Kotlin Multiplatform",
+}
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22195,
+name: "Intermediate",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Mobile"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "135756",
+title: "AI for Web : Web for AI",
+description: "Overview:  This talk explores the inter-dependence of the World Wide Web and the field of Artificial Intelligence, tracing both the storylines from their independent routes, to chronologically reaching the current day amalgamation, while discussing the major milestones of their relationship. The talk would be the complete story of the merging together of two fields, the factors that made them mutually beneficial and the projected future.  Outline:  1. Introduction to Speaker and Topic intuition 2. The Roots of Web and AI - Mutual independence  3. The Birth of Semantic Nets - First acknowledgement 4. ELIZA, the ARPANET baby - Gaining popularity 5. Stanford's SUMEX-AIM - Establishment of Partnership 6. The Semantic Web Road map by Tim Berner’s Lee - From the Father’s Pen 7. The Rise of the Crawlers - Web as the Fuel of AI 8. OWL Web Ontology Language by W3C - A standard Pact signed 9. Assistants, Advertisements, Security - Today 10. Looking ahead - The Future",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "21ae28a4-720f-4317-b318-37a0cf4afef0",
+name: "Anubhav Singh",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22186,
+name: "Machine Learning",
+},
+{
+id: 22187,
+name: "Data Science",
+},
+{
+id: 22193,
+name: "Web Development",
+},
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22194,
+name: "Beginner",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"ML",
+"Web",
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "136367",
+title: "Bringing Intelligence to Cross-Platform Applications",
+description: "With all the popularity and importance that machine learning is gaining today, it has become absolutely necessary for the mobile developers to adapt to the advancements and built applications that can detect and understand user’s behavior.  Developing applications intelligent enough to understand data comes with the responsibility of handling all the complexities behind machine learning. Firebase ML Kit ease the life of app developers by providing ready to use APIs that can be directly integrated to use the most common applications of machine learning models. In this session, we will talk about all the major Firebase ML Kit’s APIs available to make the features of machine learning available and accessible on mobile devices. Further, we will discuss how to integrate the APIs on a mobile application capable of running on different mobile platforms. Overview: - Speaker Introduction - What is Firebase ML Kit - Video and Image Analysis APIs - Natural Language Processing APIs - Hosting Custom models - Implementation in a Flutter application - Conclusion ",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "d565ec8d-eab0-48d5-b77b-9bffb9714a94",
+name: "Rimjhim Bhadani",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22179,
+name: "Flutter",
+},
+{
+id: 22180,
+name: "Mobile Applications",
+},
+{
+id: 22183,
+name: "Firebase",
+},
+{
+id: 22186,
+name: "Machine Learning",
+},
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22195,
+name: "Intermediate",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Mobile",
+"ML",
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "133977",
+title: "Bringing MATLAB like syntax to Kotlin",
+description: "MATLAB is a very powerful language when it comes to Matrix. We can definitely do the same in Kotlin but with cryptic syntax. This talk goes through the syntax of MATLAB one by one and does the same in Kotlin which looks similar to the MATLAB syntax. We will see lot of examples and understand how various Kotlin features can be leveraged to build a good syntactical API to it a fun language for Matrix manipulation. Now a days ML is trending and Matrix is building block for those. By the end of this talk, audience will feel that Kotlin can also be good alternative in ML world.",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "e7ace08f-10bc-4e0c-a3f1-2471868b5261",
+name: "Chandra Sekhar Nayak",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22191,
+name: "Kotlin",
+}
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22195,
+name: "Intermediate",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Mobile"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "135470",
+title: "Cut your APK size with features on demand",
+description: "Do APK or app size matters? Does a user think about the APK size before downloading it? Does a user think about space, an app occupying on the phone? Is your App size is more than just a few MBs? What if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not? Yes, The user thinks about the app size before downloading or updating an app which has a size larger than a few MBs. The user thinks about the data also over which he will be downloading or updating that app. He or she even think about how much space will it take on his or her device. In this fight of space in the device and size of the app, the apps having a smaller size and frequent utility wins the battle.  What if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not. What if he or she can download only the features he needs on demand and keep the app compact.  Google new feature of dynamic delivery enables us to deliver the features on demand. This helps us to reduce the size of APK and even enables the user to choose what features he needs. From a developers perspective, this is very easy to implement and maintain. Even we (Sharechat) were also at the same state where the size of APK was an issue with the new set of features we were trying to implement. Google Dynamic delivery came to the rescue. What is actually a dynamic delivery? How can we reduce the APK size with it? How it can help a user? How to implement it in Android? How difficult is it to implement in the existing code base? How will it look to the user in the app? Well, let's get all these questions answered in the talk along with our experiences and challenges we faced.",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "e3617ae8-580d-483d-9830-01a1ced6ecf2",
+name: "Suneet Agrawal",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22180,
+name: "Mobile Applications",
+},
+{
+id: 22211,
+name: "Android",
+},
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22194,
+name: "Beginner",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Mobile"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "133979",
+title: "Let's Talk Composing UI",
+description: "While Developing Apps, following a Reactive Architecture (for example MVI, Mobius, Redux and even MVVM) & Single Source of Truth can get you some big wins including but not limited to, Loose Coupling & Separation of Concerns, Code Testability and easy debugging, unidirectional data, etc. However, unlike Web, where Reactive Architectures are the norm, in Android, we need to opt for Reactive Architecture considering few tradeoffs (time to market, learning curve, etc.), as it’s not natural in Android. What do I mean by saying Reactive architecture is not natural in Android? Just like web frontends, Android apps revolve around the UI, everything we do in our Android apps has some direct or indirect relation with the UI, and the Android UI framework is imperative itself. While the Android Platform team kept adding more and more types of Views (such as Constraint Layout, RecyclerView or more recent Motion Layout), they didn’t change the nature of UI framework itself since the beginning of android development. This was majorly due to language and tooling limitations (limited by the technologies of that time). Google announced official support for Kotlin 2 years back, and now major numbers of professional Android Developers worldwide already adopted Kotlin, which made it easier for Google to go Kotlin first in this IO19. Kotlin comes with many perks, some of them are Functional Programming support, compiler plugin capabilities and most importantly huge support on building DSLs at ease. What relation does Koltin have with Reactive applications? In this IO19, Google announced Jetpack Compose (https://developer.android.com/jetpack/compose/), a new (still-in-development) next generation, Kotlin based, reactive cum declarative UI toolkit, backed by principals like Single Source of Truth, Unidirectional Data Flow, Functional Programming (especially function composition and effects). This new UI toolkit would require a radical shift in our thought process about app architectures UI programming. In this talk, we would see how we can create and interact with UI with Jetpack Compose and how different it is from the present Android framework. We will also look into examples of some code patterns and ideas of from a few famous platforms such as Vue.js, React, Flutters, etc., and how these patterns and are adopted in Jetpack Compose. ",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "f5c5d07c-9ec9-4533-b50f-0b03493041d1",
+name: "Rivu Chakraborty",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22191,
+name: "Kotlin",
+},
+{
+id: 22211,
+name: "Android",
+},
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22195,
+name: "Intermediate",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Mobile"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "133842",
+title: "Machine learning in cytopathology: Experience from a clinical laboratory",
+description: "The viewpoint of a physician and a pathologist involved in cancer research, regarding suitability of machine learning models in detection of cancer from clinical specimens, especially cytology. Three models and associated dataset will be presented.",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "77931107-3b91-49a9-a83b-31e46ad1ccac",
+name: "Parikshit Sanyal",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22176,
+name: "Lightning talk",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22186,
+name: "Machine Learning",
+}
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22194,
+name: "Beginner",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"ML"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "134974",
+title: "Minimizing CPU utilization for deep networks",
+description: "The advent of machine learning along with its integration with computer vision has enabled users to efficiently to develop image-based solutions for innumerable use cases. A machine learning model consists of an algorithm which draws some meaningful correlation between the data without being tightly coupled to a specific set of rules. It's crucial to explain the subtle nuances of the network along with the use-case we are trying to solve. With the advent of technology, the quality of the images has increased which in turn has increased the need for resources to process the images for building a model. The main question, however, is to discuss the need to develop lightweight models keeping the performance of the system intact. To connect the dots, we will talk about the development of these applications specifically aimed to provide equally accurate results without using much of the resources. This is achieved by using image processing techniques along with optimizing the network architecture. These applications will range from recognizing digits, alphabets which the user can 'draw' at runtime; developing state of the art facial recognition system; predicting hand emojis, developing a self-driving system, detecting Malaria and brain tumor, along with Google's project of 'Quick, Draw' of hand doodles. In this presentation, we will discuss the development of such applications with minimization of CPU usage.",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "36d58ddd-edb6-4d74-8f4b-5f68ebe578c3",
+name: "Akshay Bahadur",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22186,
+name: "Machine Learning",
+}
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22194,
+name: "Beginner",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"ML"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "134583",
+title: "Not everything can fit in rows and columns",
+description: "The Graph Database is there since a long time but very restricted adaption rate and there are some rumours about where it fits. The way the web is moving forward data is becoming more unstructured which are very hard to fit in row and columns. We have adapted NoSQL databases which pose several challenges when it comes to relationships. The dgraph team is trying to fill the gaps and minimize the time required to get started with the Graph Database.",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "87e636d4-d0fe-4619-af73-1404e69b8471",
+name: "Ashok Vishwakarma",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22176,
+name: "Lightning talk",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22193,
+name: "Web Development",
+}
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22194,
+name: "Beginner",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Web"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "136269",
+title: "Putting Work Manager To Work",
+description: "With the changes to background processes/tasks in Oreo(Android 8.0) it has become very complicated dealing with Background tasks from your app. Right from using Alarm Managers to Job Scheduler, there doesn't seem to be a single clean solution to this problem. In this talk, we will look at the new Work Manager announced at Google I/O 2018 to solve background processing. While, it is still in alpha we will look at what it has to offer and how to make the most of it. We will also look at some of the internal details of the Work Manager to better understand the magic under the hood and then look at some of the best ways to use it in your own app.",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "a8fd2a73-d62b-4a05-a52b-9be52909a462",
+name: "Adnan A M",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22180,
+name: "Mobile Applications",
+},
+{
+id: 22211,
+name: "Android",
+},
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22195,
+name: "Intermediate",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Mobile"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "134367",
+title: "Scale your Web Application Securely on Compute Engine",
+description: "A session with a demo explaining the multi-tier web app on Compute Engine. Below are the topics which I will cover in the session. 1 IAAS Market stats and Compute options on GCP 2 Choosing the right to compute service for the workload. 3. Basics of Compute Engine along with spinning one Linux VM. Explaining all the various option/components. Showing the biggest VM available on Compute Engine. 4. Presenting the Multi-Tier Application and explaining the role of each tier. 5. Load Testing and demo of autoscaling and explaining the security parameters which needs to be taken care of. Overall this session will the idea of how the real world application is running and the value of GCP platform which is the lower level and most in use by an enterprise application to Startup workload. ",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "09e3eba1-84a6-409a-a6ee-849f10c6b9d3",
+name: "Chirag Nayyar",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22184,
+name: "Google Cloud Platform",
+}
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22195,
+name: "Intermediate",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Cloud"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "133976",
+title: "Sneaking inside Kotlin features",
+description: "Kotlin has many language features even though none of them are supported by JVM or Android ART. This talk will go through all the language features and understand how they work internally for JVM or ART compatibility. Many developers in our community uses all these APIs without knowing how they work. After this talk, they will have a good understanding of how those features work.",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "e7ace08f-10bc-4e0c-a3f1-2471868b5261",
+name: "Chandra Sekhar Nayak",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22178,
+name: "Session",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22191,
+name: "Kotlin",
+}
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22195,
+name: "Intermediate",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"Mobile"
+],
+roomId: null,
+room: null,
+},
+{
+questionAnswers: [ ],
+id: "134138",
+title: "Tweet to Location :- Predicting location of a user based on his tweets",
+description: "Open Source is a virtually unlimited tap of data for your Machine Learning needs , and when this data is used optimally with Machine Learning/ Deep Learning Approaches it can lead to some amazing results. I have worked extensively in this area and have implemented some critical solutions [like an AI-enabled Intelligence gathering tool for the Indian Army ] in this domain . In this session i will be sharing a very interesting use case " Predicting user location by Social Media Data" . We will look at how its is possible [and the what extent!] to predict where a user is located based solely on what and when he tweets! When dealing with open source data , problem formulation and data cleaning are the major hurdles . I will discuss what sort of hurdles i faced while doing this and how to overcome them , and at the same time , draw parallels to show how these techniques can be used in any domain.  We will go also go over how the data is fed to various machine learning and deep learning algorithms and examine ",
+startsAt: null,
+endsAt: null,
+isServiceSession: false,
+isPlenumSession: false,
+speakers: [
+{
+id: "a1c9e835-5239-4d09-893b-198114a90c46",
+name: "Yash Deo",
+}
+],
+categories: [
+{
+id: 15418,
+name: "Session format",
+categoryItems: [
+{
+id: 22176,
+name: "Lightning talk",
+}
+],
+sort: 0,
+},
+{
+id: 15419,
+name: "Technology",
+categoryItems: [
+{
+id: 22186,
+name: "Machine Learning",
+},
+{
+id: 22187,
+name: "Data Science",
+},
+{
+id: 22188,
+name: "TensorFlow",
+},
+],
+sort: 1,
+},
+{
+id: 15420,
+name: "Audience level",
+categoryItems: [
+{
+id: 22195,
+name: "Intermediate",
+}
+],
+sort: 2,
+},
+],
+tracks: [
+"ML"
+],
+roomId: null,
+room: null,
+},
+],
+}
+]
