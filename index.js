@@ -209,7 +209,7 @@ app.intent('About Devfest',(conv) => {
         url: 'https://www.meetup.com/Google-Developer-Group-Cloud-Kolkata/',
         description: 'GDG Cloud Kolkata',
         image: new Image({
-          url: 'https://firebasestorage.googleapis.com/v0/b/devfest-19.appspot.com/o/gdg_cloud.png?alt=media&token=259e1f53-ff92-4560-b160-8a8627d637cb',
+          url: 'https://firebasestorage.googleapis.com/v0/b/devfest-19.appspot.com/o/gdg_cloud.png?alt=media&token=95db6052-fd9d-4430-b564-fcf91daf1330',
           alt: 'Image alternate text',
         }),
         footer: '',
@@ -225,7 +225,7 @@ app.intent('About Devfest',(conv) => {
 app.intent("organisers",(conv) => {
   return new Promise((resolve,reject)=>{
     conv.ask("Here's the organizing team for DevFest'19");
-    const coreFile=bucket.file('coreteamdata.json');
+    const coreFile=bucket.file('coreteamdata.json'); //Update with your Core Team Filename
     coreFile.download()
       .then(contents=>{
       const buffer=contents.toString();
@@ -289,7 +289,7 @@ app.intent("Speakers",(conv) => {
   return new Promise((resolve,reject)=>{
     conv.ask("Please wait while we fetch the List!");
     conv.ask("This is arguably one of the best DevFest Speaker Lineup Till Date!");
-    const speakersFile=bucket.file('speakersdata.json');
+    const speakersFile=bucket.file('speakersdata.json'); //Update with your Speaker Data Filename
     speakersFile.download()
       .then(contents=>{
       const buffer=contents.toString();
@@ -321,7 +321,7 @@ app.intent("Speakers - custom",(conv,{speakers})=>{
     conv.ask("Here...");
     console.log("Speakers Value:",speakers);
     conv.ask(new Suggestions('Home','Sessions','Exit'));
-    const speakersFile=bucket.file('speakersdata.json');
+    const speakersFile=bucket.file('speakersdata.json'); //Update with your Speaker details Filename
     speakersFile.download()
       .then(contents=>{
       const buffer=contents.toString();
@@ -382,7 +382,7 @@ app.intent("show_sessions - custom",(conv,{session_title})=>{
     session_title= conv.arguments.get('OPTION') || session_title;
     
     console.log("session_title ",session_title);
-    const sessionFile=bucket.file('sessionsdata.json');
+    const sessionFile=bucket.file('sessionsdata.json'); //Update with your Session details Filename
     sessionFile.download()
       .then(contents=>{
       conv.ask("Here's more about it...");
@@ -620,12 +620,12 @@ app.intent('Backup_Intent',(conv,params)=> {
       
     }else if(f5 && f1){
       console.log("Need to search organizer's list");
-      file=bucket.file('coreteamdata.json');
+      file=bucket.file('coreteamdata.json'); //Update with your Core Team Filename
       conv.ask("Here...");
       file.download()
         .then(contents=>{
         const buffer=contents.toString();
-        var corePerson=JSON.parse(buffer).filter(buf=> buf.name!="Tanmay Ghosh" && person.name.toLowerCase()===buf.name.toLowerCase());
+        var corePerson=JSON.parse(buffer).filter(buf=> buf.name!="xyz" && person.name.toLowerCase()===buf.name.toLowerCase());
         console.log("Core Person",corePerson);
         if(corePerson.length>0){ 
           	corePerson=corePerson[0];
@@ -651,7 +651,7 @@ app.intent('Backup_Intent',(conv,params)=> {
     }else if(f4){
       console.log("Just tracks Present",tracks);
       conv.ask("Here are the Session in this track. Click on them to Watch Live!");
-      file=bucket.file('sessionsdata.json');
+      file=bucket.file('xyz.json'); //Update with Path to your File for Speakers & Sessions
       file.download()
         .then(contents=>{     
         var itemArr=[];
